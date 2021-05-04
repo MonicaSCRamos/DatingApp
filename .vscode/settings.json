@@ -1,0 +1,5 @@
+{
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "razor.devmode": true
+}

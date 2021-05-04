@@ -1,0 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using API.Entities;
+using API.Controllers;
+using Microsoft.EntityFrameworkCore.Sqlite;
+
+namespace API.Entities
+{
+    public class AppUser
+    {
+        public int Id { get; set; }
+        public string UserName { get; set; }
+    }
+}
