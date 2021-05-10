@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< HEAD
         "UserName": "Rosa",
         "Gender": "female",
         "DateOfBirth": "1966-11-24",
@@ -15,28 +14,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/55.jpg",
-=======
-        "UserName": "Iris",
-        "Gender": "female",
-        "DateOfBirth": "1968-03-08",
-        "KnownAs": "Iris",
-        "Created": "2020-06-18",
-        "LastActive": "2020-06-06",
-        "Introduction": "Est aliqua sint enim veniam fugiat. Anim dolor magna nulla est dolore in aliqua. Et reprehenderit proident qui deserunt nisi nisi ex ea.\r\n",
-        "LookingFor": "Commodo elit non ex cillum. Laborum consequat aute eiusmod excepteur. Eu aliquip incididunt sint amet cupidatat velit velit excepteur qui ullamco. Minim ad consequat velit commodo eu adipisicing.\r\n",
-        "Interests": "Duis qui dolor tempor velit consequat.",
-        "City": "Vincent",
-        "Country": "Mayotte",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/women/42.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Latonya",
         "Gender": "female",
         "DateOfBirth": "1999-04-20",
@@ -51,28 +33,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/25.jpg",
-=======
-        "UserName": "Lila",
-        "Gender": "female",
-        "DateOfBirth": "1964-12-26",
-        "KnownAs": "Lila",
-        "Created": "2020-06-03",
-        "LastActive": "2020-05-23",
-        "Introduction": "Labore cillum id aliquip in ad amet consequat quis. Cupidatat exercitation aliqua nostrud officia labore qui esse id veniam reprehenderit consectetur anim tempor excepteur. Consequat duis enim proident culpa laborum exercitation reprehenderit reprehenderit sint aute. Pariatur exercitation sunt dolore cupidatat.\r\n",
-        "LookingFor": "Cupidatat eiusmod fugiat in duis deserunt ipsum excepteur. Est minim ex aute nisi adipisicing labore et cillum commodo. Voluptate mollit id tempor eiusmod est voluptate excepteur reprehenderit. Dolor ut ea mollit consectetur adipisicing laborum et aliquip veniam esse eu adipisicing Lorem. Ut consectetur aliqua deserunt nisi duis laborum magna eiusmod commodo cupidatat. Ad aute proident exercitation laborum adipisicing minim ipsum nulla consequat amet eu.\r\n",
-        "Interests": "Dolor exercitation laboris velit qui.",
-        "City": "Garnet",
-        "Country": "Tokelau",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/women/60.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Ruth",
         "Gender": "female",
         "DateOfBirth": "1967-03-28",
@@ -87,28 +52,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/24.jpg",
-=======
-        "UserName": "Sonja",
-        "Gender": "female",
-        "DateOfBirth": "1984-01-22",
-        "KnownAs": "Sonja",
-        "Created": "2019-06-07",
-        "LastActive": "2020-06-12",
-        "Introduction": "Occaecat velit in anim ex enim mollit est nulla dolor ut sit labore mollit dolor. Laboris non cillum amet aute amet duis exercitation. Fugiat incididunt deserunt magna et officia elit exercitation ad duis mollit reprehenderit id est eu. Nulla Lorem magna velit culpa. Officia cillum aliqua sint mollit do magna id ad ipsum sit consequat enim.\r\n",
-        "LookingFor": "Do proident labore mollit enim incididunt voluptate elit consequat consectetur minim. Velit enim adipisicing irure laborum veniam magna culpa nostrud velit dolore. In officia in elit mollit aute enim veniam elit ex ea dolor. Aliquip non labore consectetur cupidatat ullamco anim minim. Elit minim ea ad exercitation sit. Sint exercitation cupidatat in nulla sit incididunt dolor.\r\n",
-        "Interests": "Consectetur commodo qui qui pariatur irure fugiat nisi ullamco duis ad elit.",
-        "City": "Lund",
-        "Country": "Guinea",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/women/45.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Jaime",
         "Gender": "female",
         "DateOfBirth": "1977-06-26",
@@ -123,28 +71,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/34.jpg",
-=======
-        "UserName": "Matilda",
-        "Gender": "female",
-        "DateOfBirth": "1988-05-16",
-        "KnownAs": "Matilda",
-        "Created": "2019-11-02",
-        "LastActive": "2020-05-26",
-        "Introduction": "Nisi in sint minim voluptate irure est ipsum ex do qui nulla. Enim do ad ex enim aute labore sint et voluptate est. Minim amet sunt excepteur esse tempor enim velit non proident mollit exercitation qui deserunt ad. Officia ea fugiat ex laboris culpa amet do pariatur nostrud id velit sint esse adipisicing. Sit labore nostrud ea enim irure deserunt laborum sint quis nulla amet.\r\n",
-        "LookingFor": "Velit minim consectetur aute et magna culpa nostrud. Et irure id tempor nostrud qui. Exercitation cillum amet mollit magna aliquip commodo. Cillum aliquip aliqua laboris anim anim eu cillum eiusmod esse deserunt elit enim. Voluptate mollit do est aliqua laborum pariatur enim aliqua exercitation duis consequat adipisicing commodo.\r\n",
-        "Interests": "Voluptate ea deserunt incididunt exercitation aliquip laborum ut fugiat amet consectetur enim tempor quis anim.",
-        "City": "Vale",
-        "Country": "Oman",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/women/65.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Jennifer",
         "Gender": "female",
         "DateOfBirth": "1990-05-07",
@@ -159,29 +90,12 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/86.jpg",
-=======
-        "UserName": "Susanna",
-        "Gender": "female",
-        "DateOfBirth": "1982-09-25",
-        "KnownAs": "Susanna",
-        "Created": "2019-06-03",
-        "LastActive": "2020-06-28",
-        "Introduction": "Do est elit Lorem occaecat deserunt fugiat magna. Proident aute esse labore cupidatat fugiat culpa nostrud nisi quis cupidatat commodo. Aliquip fugiat nostrud do pariatur voluptate dolor. Eu quis cupidatat ea incididunt proident incididunt pariatur officia laboris. Cillum voluptate laborum sint excepteur incididunt sint ea labore aute elit minim esse minim aliquip. Consectetur aliquip nulla nulla est. Do consequat minim nulla in.\r\n",
-        "LookingFor": "Anim consequat proident quis proident officia dolore eu magna excepteur consectetur. Culpa laboris pariatur consequat deserunt sunt culpa sit enim amet culpa. Occaecat anim id magna aliqua excepteur id minim aliquip id voluptate. Proident officia est cupidatat minim esse tempor fugiat pariatur consequat. Non mollit enim laborum nisi incididunt nulla consectetur elit non culpa. Pariatur anim dolor minim veniam sit non proident nulla excepteur do ullamco in enim adipisicing. Anim officia qui irure et dolore laboris tempor qui excepteur amet eiusmod.\r\n",
-        "Interests": "Non deserunt dolor ex ullamco velit voluptate.",
-        "City": "Bennett",
-        "Country": "Cayman Islands",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/women/35.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
         "UserName": "Mack",
-<<<<<<< HEAD
         "Gender": "male",
         "DateOfBirth": "1956-10-04",
         "KnownAs": "Mack",
@@ -195,27 +109,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/50.jpg",
-=======
-        "Gender": "female",
-        "DateOfBirth": "1996-01-13",
-        "KnownAs": "Mack",
-        "Created": "2020-01-25",
-        "LastActive": "2020-06-13",
-        "Introduction": "Quis cillum enim ex ullamco laboris commodo sit aliquip culpa irure nostrud culpa eiusmod. Qui do nulla cupidatat cillum proident nostrud veniam enim duis aliquip do exercitation. Laborum Lorem amet laborum nisi quis voluptate id fugiat cillum nisi exercitation nisi. Incididunt fugiat sunt esse Lorem. Sint nulla dolor deserunt est ipsum.\r\n",
-        "LookingFor": "Quis ex cupidatat consectetur cupidatat sint fugiat. Pariatur culpa laborum aute ut proident cillum aliqua deserunt cupidatat. Amet occaecat adipisicing incididunt voluptate non enim reprehenderit officia velit ipsum. Ipsum irure occaecat ipsum ea enim proident dolore duis labore veniam enim sit aliqua nisi. Sint cupidatat adipisicing cillum laborum ad irure.\r\n",
-        "Interests": "Fugiat tempor proident qui qui amet incididunt magna velit adipisicing eiusmod incididunt.",
-        "City": "Cecilia",
-        "Country": "Zaire",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/men/86.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Rice",
         "Gender": "male",
         "DateOfBirth": "1996-06-26",
@@ -230,28 +128,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/40.jpg",
-=======
-        "UserName": "Gaines",
-        "Gender": "female",
-        "DateOfBirth": "1976-02-08",
-        "KnownAs": "Gaines",
-        "Created": "2019-09-02",
-        "LastActive": "2020-05-25",
-        "Introduction": "Mollit elit anim laboris mollit quis velit commodo irure officia proident et fugiat duis. Sit reprehenderit enim magna pariatur quis minim nulla labore duis occaecat officia duis commodo ipsum. Dolor enim reprehenderit fugiat do aute dolore sit officia quis duis reprehenderit enim aute duis. Voluptate nisi non sint occaecat in minim. Do esse officia ipsum eiusmod ad.\r\n",
-        "LookingFor": "Duis aute reprehenderit sunt incididunt laboris cupidatat pariatur laborum excepteur tempor enim anim. Velit anim ipsum tempor do ad laborum eu est ut. Dolore aliqua sunt cillum amet duis do qui sunt consectetur non cupidatat incididunt eiusmod enim. Culpa ullamco sit id incididunt.\r\n",
-        "Interests": "Officia sit labore elit aute ex reprehenderit ut do ad id nulla nulla.",
-        "City": "Hollymead",
-        "Country": "Thailand",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/men/96.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Todd",
         "Gender": "male",
         "DateOfBirth": "1955-12-18",
@@ -266,28 +147,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/82.jpg",
-=======
-        "UserName": "Cannon",
-        "Gender": "female",
-        "DateOfBirth": "1974-03-29",
-        "KnownAs": "Cannon",
-        "Created": "2020-03-11",
-        "LastActive": "2020-06-21",
-        "Introduction": "Adipisicing labore culpa officia minim. Consectetur exercitation sint adipisicing quis ut excepteur laboris sit cupidatat reprehenderit. Ex enim aliqua occaecat consectetur anim commodo qui eu deserunt amet.\r\n",
-        "LookingFor": "Et sint anim velit nulla culpa veniam tempor aliqua sunt duis laboris. Cillum sit veniam cillum velit reprehenderit. Aliqua laborum minim culpa velit fugiat officia proident velit labore. Esse aliquip dolor adipisicing irure aute esse tempor ea in dolore eiusmod. Excepteur sit ad qui ipsum proident. Adipisicing ut sit ad commodo velit dolor dolore elit ut.\r\n",
-        "Interests": "Commodo labore excepteur proident labore cillum aute amet consequat non adipisicing qui consectetur mollit consequat.",
-        "City": "Barstow",
-        "Country": "Turks and Caicos Islands",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/men/84.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Ryan",
         "Gender": "male",
         "DateOfBirth": "1957-09-08",
@@ -302,28 +166,11 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/95.jpg",
-=======
-        "UserName": "Bishop",
-        "Gender": "female",
-        "DateOfBirth": "1967-10-04",
-        "KnownAs": "Bishop",
-        "Created": "2020-01-21",
-        "LastActive": "2020-06-07",
-        "Introduction": "Incididunt est fugiat non cillum do commodo duis exercitation. Deserunt officia non laboris et veniam cillum id aliquip aliquip adipisicing eiusmod velit esse. Cillum elit et id occaecat esse culpa duis magna fugiat eu. Anim non sint magna eiusmod elit esse aliquip commodo ullamco cillum in. Magna non deserunt amet sint sit esse nulla fugiat excepteur enim nulla excepteur deserunt enim. Nulla duis est Lorem commodo aliqua do adipisicing veniam dolor elit velit mollit duis. Laborum laborum ullamco ad nostrud mollit ut reprehenderit adipisicing velit.\r\n",
-        "LookingFor": "Et aute cupidatat tempor minim sunt irure adipisicing enim deserunt esse laborum irure incididunt. Quis anim excepteur veniam deserunt officia non et aliquip amet labore aliquip proident fugiat Lorem. Cillum adipisicing deserunt nostrud ullamco mollit excepteur nisi voluptate veniam enim officia tempor id. Sit sunt ex culpa laborum cillum do ipsum velit nostrud est sunt non mollit exercitation. Sit aute magna officia nisi nisi do do dolor id. Incididunt aliquip commodo esse irure deserunt cillum quis.\r\n",
-        "Interests": "Lorem labore consectetur ea do nisi.",
-        "City": "Tolu",
-        "Country": "Bouvet Island",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/men/32.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]
     },
     {
-<<<<<<< HEAD
         "UserName": "Wise",
         "Gender": "male",
         "DateOfBirth": "1996-04-03",
@@ -338,22 +185,6 @@
         "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/36.jpg",
-=======
-        "UserName": "Wolf",
-        "Gender": "female",
-        "DateOfBirth": "1985-05-20",
-        "KnownAs": "Wolf",
-        "Created": "2020-01-21",
-        "LastActive": "2020-05-16",
-        "Introduction": "Occaecat laboris irure aliqua non aliquip tempor irure id laboris amet proident aute do. Elit elit voluptate eiusmod pariatur ad non id proident. Cupidatat nostrud ex incididunt eiusmod dolor id. Velit laborum minim ut amet consequat ea dolore cillum labore ea. Velit nisi mollit exercitation ut. Eu laboris consequat anim ipsum aliquip minim laboris labore anim mollit irure labore occaecat labore.\r\n",
-        "LookingFor": "Sint laboris veniam proident ea labore. Ea officia commodo nulla est id. Esse est ea labore amet ad esse velit voluptate reprehenderit sunt incididunt amet voluptate. Magna id ut ipsum in.\r\n",
-        "Interests": "Nisi et cupidatat qui tempor commodo commodo sint.",
-        "City": "Edgewater",
-        "Country": "Guadeloupe",
-        "Photos": [
-            {
-                "Url": "https://randomuser.me/api/portraits/men/45.jpg",
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 "IsMain": true
             }
         ]

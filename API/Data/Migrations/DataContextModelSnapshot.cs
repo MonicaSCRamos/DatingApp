@@ -40,12 +40,9 @@ namespace API.Data.Migrations
                     b.Property<string>("Interests")
                         .HasColumnType("TEXT");
 
-<<<<<<< HEAD
                     b.Property<string>("Introduction")
                         .HasColumnType("TEXT");
 
-=======
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                     b.Property<string>("KnownAs")
                         .HasColumnType("TEXT");
 
