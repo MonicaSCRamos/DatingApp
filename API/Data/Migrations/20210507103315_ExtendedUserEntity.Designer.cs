@@ -3,14 +3,16 @@ using System;
 using API.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace API.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20210507103315_ExtendedUserEntity")]
+    partial class ExtendedUserEntity
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -40,12 +42,6 @@ namespace API.Data.Migrations
                     b.Property<string>("Interests")
                         .HasColumnType("TEXT");
 
-<<<<<<< HEAD
-                    b.Property<string>("Introduction")
-                        .HasColumnType("TEXT");
-
-=======
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                     b.Property<string>("KnownAs")
                         .HasColumnType("TEXT");
 

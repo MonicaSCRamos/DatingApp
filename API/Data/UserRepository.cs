@@ -28,9 +28,15 @@ namespace API.Data
                 .SingleOrDefaultAsync();
         }
 
+<<<<<<< HEAD
         public async Task<IEnumerable<MemberDto>> GetMemberAsync()
         {
             return await _context.Users
+=======
+        public async Task<IEnumerable<MemberDto>> GetMembersAsync()
+        {
+            return await _context.Users 
+>>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
                 .ProjectTo<MemberDto>(_mapper.ConfigurationProvider)
                 .ToListAsync();
         }
@@ -64,4 +70,8 @@ namespace API.Data
             _context.Entry(user).State = EntityState.Modified;
         }
     }
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
