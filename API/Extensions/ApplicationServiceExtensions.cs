@@ -6,13 +6,6 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-<<<<<<< HEAD
-using Microsoft.EntityFrameworkCore;
-using AutoMapper;
-using API.Helpers;
-
-=======
->>>>>>> 75c43fc1347a43cfc220646f0fe5b1a3c0f1dcf9
 namespace API.Extensions
 {
     public static class ApplicationServiceExtensions
